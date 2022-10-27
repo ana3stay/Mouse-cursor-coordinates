@@ -1,0 +1,5 @@
+C:\Users\Andrey\Desktop\Lab9\Debug\Lab9.exe
+C:\Users\Анастасия\Desktop\Lab9\Debug\Lab9.exe
+C:\Users\Анастасия\Desktop\Lab9\Debug\Lab9.pdb
+E:\study\Lab9\Debug\Lab9.exe
+E:\study\Lab9\Debug\Lab9.pdb
